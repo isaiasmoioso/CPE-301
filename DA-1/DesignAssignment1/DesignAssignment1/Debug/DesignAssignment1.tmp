@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\Debug\DesignAssignment1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DesignAssignment1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DesignAssignment1.map</FILE>
+  <FILE>DesignAssignment1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <loop25><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>20</LINE></loop25>
+  <Add25><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>65</LINE></Add25>
+  <lessthan8bits7><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>43</LINE></lessthan8bits7>
+  <lessthan8bits3><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>59</LINE></lessthan8bits3>
+  <end><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>60</LINE></end>
+  <add25Loop><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>68</LINE></add25Loop>
+  <div8u><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>112</LINE></div8u>
+  <notDivByR><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>76</LINE></notDivByR>
+  <d8u_1><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>115</LINE></d8u_1>
+  <d8u_2><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>120</LINE></d8u_2>
+  <d8u_3><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>127</LINE></d8u_3>
+ </LABELS>
+</ASSEMBLER_INFO>
