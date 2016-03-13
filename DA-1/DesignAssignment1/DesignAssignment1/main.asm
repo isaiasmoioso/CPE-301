@@ -67,8 +67,8 @@ Add25:
 	clr		r11
 add25Loop:
 	ld		r1,	y+			; get next value
-	mov		r16, r1			; store it in r16
-	call	div8u			; call divide routine
+	mov		r16, r1			
+	call	div8u			; use divide routine
 	cp		r15, zero		; Check if remainder is 0
 	brne	notDivByR		 
 	add		r10,	r1		; Add if remainder is 0

@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.57  C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\main.asm Wed Mar 09 20:06:52 2016
+AVRASM ver. 2.1.57  C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\main.asm Wed Mar 09 21:07:20 2016
 
 [builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc\m328pdef.inc'
 C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\DesignAssignment1\main.asm(108): warning: Register r16 already defined by the .DEF directive
@@ -1053,8 +1053,8 @@ C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-1\DesignAssignment1\Design
 000023 24bb      	clr		r11
                  add25Loop:
 000024 9019      	ld		r1,	y+			; get next value
-000025 2d01      	mov		r16, r1			; store it in r16
-000026 940e 002f 	call	div8u			; call divide routine
+000025 2d01      	mov		r16, r1			
+000026 940e 002f 	call	div8u			; use divide routine
 000028 14f0      	cp		r15, zero		; Check if remainder is 0
 000029 f411      	brne	notDivByR		 
 00002a 0ca1      	add		r10,	r1		; Add if remainder is 0
