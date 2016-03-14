@@ -7,10 +7,11 @@
 ;
 
 
-	SBI DDRC,0		;PC0 as an output
+	
+	LDI R18, 0xFF	
+	OUT DDRB, R18	;MAKING ALL PINST IN ORT B OUTPUT
 	LDI R17,0x01
 	LDI R16, 0x01
-	OUT PORTC,R17		;PB5&4 = 0
 	LDI R18, 0
 	LDI R19, 0X01
 
@@ -20,9 +21,8 @@ BEGIN:
 	CP	R17, R19		;checks for rising edge
 	BRNE SKIP			
 	INC	R18
-	OUT PORTB, R19
 SKIP:
-	OUT PORTB,R17		;toggle PB5
+	OUT PORTB,R18		;toggle PB5
 	RJMP BEGIN
 
 

@@ -23,12 +23,12 @@
   <FILE>DA2t3.lss</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <BEGIN><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-2\DA2T3\DA2-midterm\main.asm</FILE><LINE>28</LINE></BEGIN>
-  <DELAY><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-2\DA2T3\DA2-midterm\main.asm</FILE><LINE>58</LINE></DELAY>
-  <SKIP><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-2\DA2T3\DA2-midterm\main.asm</FILE><LINE>42</LINE></SKIP>
-  <FIVE><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-2\DA2T3\DA2-midterm\main.asm</FILE><LINE>46</LINE></FIVE>
-  <CHECKTEN><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-2\DA2T3\DA2-midterm\main.asm</FILE><LINE>39</LINE></CHECKTEN>
-  <TEN><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-2\DA2T3\DA2-midterm\main.asm</FILE><LINE>52</LINE></TEN>
-  <AGAIN><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-2\DA2T3\DA2-midterm\main.asm</FILE><LINE>68</LINE></AGAIN>
+  <BEGIN><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-2\DA2T3\DA2-midterm\main.asm</FILE><LINE>19</LINE></BEGIN>
+  <DELAY><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-2\DA2T3\DA2-midterm\main.asm</FILE><LINE>53</LINE></DELAY>
+  <SKIP><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-2\DA2T3\DA2-midterm\main.asm</FILE><LINE>32</LINE></SKIP>
+  <FIVE><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-2\DA2T3\DA2-midterm\main.asm</FILE><LINE>36</LINE></FIVE>
+  <CHECKTEN><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-2\DA2T3\DA2-midterm\main.asm</FILE><LINE>29</LINE></CHECKTEN>
+  <TEN><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-2\DA2T3\DA2-midterm\main.asm</FILE><LINE>45</LINE></TEN>
+  <AGAIN><FILE>C:\Users\Isaias Osorio\Google Drive\school\cpe 301\DA-2\DA2T3\DA2-midterm\main.asm</FILE><LINE>63</LINE></AGAIN>
  </LABELS>
 </ASSEMBLER_INFO>
